@@ -54,5 +54,3 @@ fi
 
 echo "==> Installation complete!"
 echo ""
-
-"$SCRIPT_TARGET" --set
