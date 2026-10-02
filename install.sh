@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 set -e
 
-# --- 設定項目（リポジトリ情報に合わせて変更してください） ---
-REPO_USER="your-username"
-REPO_NAME="birthday-cli"
+REPO_USER="K10-K10"
+REPO_NAME="HappyBirthday-script"
 BRANCH="main"
 # -------------------------------------------------------------
 

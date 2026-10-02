@@ -5,7 +5,7 @@ A simple bash script that will send you a birthday message on your birthday. It 
 # Installation
 
 ```bash
-curl -fsSL [https://raw.githubusercontent.com/your-username/birthday-cli/main/install.sh](https://raw.githubusercontent.com/your-username/birthday-cli/main/install.sh) | bash
+curl -fsSL [https://raw.githubusercontent.com/K10-K10/HappyBirthday-script/main/install.sh](https://raw.githubusercontent.com/K10-K10/HappyBirthday-script/main/install.sh) | bash
 ```
 
 # Usage
